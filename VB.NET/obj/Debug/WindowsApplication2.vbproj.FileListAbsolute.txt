@@ -1,0 +1,11 @@
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+c:\users\sanya\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
